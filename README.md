@@ -1,2 +1,2 @@
-# Simple-Neural-Network-Single-Layer
-It is a simple neural network (single layer) built using Python
+# Simple-Neural-Network
+It is a simple neural network (both single and multi layer) built using Python
